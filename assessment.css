@@ -43,3 +43,7 @@ background-size: contain;
 form > ul > li {
   list-style-type: none;
 }
+
+#teamRoster ol li:first-child{
+  font-weight: bold;
+}
