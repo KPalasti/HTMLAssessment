@@ -47,3 +47,11 @@ form > ul > li {
 #teamRoster ol li:first-child{
   font-weight: bold;
 }
+
+#scoreBoard tr:nth-child(even){
+  background-color: blue;
+}
+
+#scoreBoard tr:nth-child(odd){
+  background-color: orange;
+}
